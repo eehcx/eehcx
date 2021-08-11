@@ -5,7 +5,7 @@
 - 👯 I am looking to collaborate on machine learning
 - 🤔 I am looking for help with different python resources
 - 💬 Ask me about python
-- 📫 Contact me on my instagram @eehcx
+- 📫 Contact me on  instagram @eehcx
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -> 
