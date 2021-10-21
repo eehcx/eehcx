@@ -6,6 +6,6 @@
 - 🤔 I am looking for help with different python resources
 - 💬 Ask me about python
 - 📫 Contact me on  instagram @eehcx
-- 😄 Pronouns: ...
+- 😄 Pronouns: peyo
 - ⚡ Fun fact: ...
 -> 
