@@ -1,30 +1,29 @@
-# ¡Hola! 👋 Soy @eehcx
+# ¡Hola! 👋 Soy [@eehcx]
 
 ## Acerca de mí
 
 Soy un apasionado desarrollador de software con experiencia en [python]. Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías. Me apasiona el desarrollo de software de alta calidad y limpio, y me esfuerzo por crear código que sea fácil de entender, mantener y escalar.
 
-## ¿Qué estoy haciendo?
+### What I'm working on
 
-- 🔭 Actualmente estoy trabajando en [proyecto personal/proyecto de trabajo].
-- 🌱 Actualmente estoy aprendiendo [tecnología nueva que estás aprendiendo].
-- 💬 Pregúntame sobre [áreas de especialización/tecnologías en las que estás interesado].
-- 📫 Cómo contactarme: [correo electrónico, sitio web, etc.].
+🚀 I'm currently working on a []
 
-## Mis habilidades
+### What I'm learning
 
-- [python,javascript,c#]
-- [VSCODE]
-- [Otras habilidades relevantes]
+🌱 I'm currently learning TypeScript, SCSS, Babel
+## Skills
+
+- 💻 HTML, CSS, JavaScript, Node.js, Python, Django.
+- 🛢️ PostgreSQL, MySQL, Firebase.
+- 🎨 Figma, Adobe Photoshop
 
 ## Mis estadísticas de GitHub
 
 [![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
 
-## Contáctame
+## Get in touch
 
-- [Sitio web personal](https://www.tusitio.com)
-- [Correo electrónico](mailto:tuemail@correo.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tucuenta)
+📧 [Email](mailto:eehcx.contacto@gmail.com)
+👔 [LinkedIn](https://www.linkedin.com/in/yourusername/)
+🐦 [Twitter](https://twitter.com/yourusername)
 
