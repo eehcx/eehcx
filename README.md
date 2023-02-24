@@ -1,6 +1,5 @@
-<div>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> 
-</div
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"> 
+
 # ¡Hola! 👋 Soy Enoc Hernández
 
 ## Acerca de mí
