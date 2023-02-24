@@ -1,8 +1,8 @@
-# ¡Hola! 👋 Soy [eehcx]
+# ¡Hola! 👋 Soy @eehcx
 
 ## Acerca de mí
 
-Soy un apasionado desarrollador de software con experiencia en [lenguajes/tecnologías que dominas]. Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías. Me apasiona el desarrollo de software de alta calidad y limpio, y me esfuerzo por crear código que sea fácil de entender, mantener y escalar.
+Soy un apasionado desarrollador de software con experiencia en [python]. Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías. Me apasiona el desarrollo de software de alta calidad y limpio, y me esfuerzo por crear código que sea fácil de entender, mantener y escalar.
 
 ## ¿Qué estoy haciendo?
 
