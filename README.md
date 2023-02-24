@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [nombre del desarrollador]
+# ¡Hola! 👋 Soy [@eehcx]
 
 ## Acerca de mí
 
@@ -19,7 +19,7 @@ Soy un apasionado desarrollador de software con experiencia en [lenguajes/tecnol
 
 ## Mis estadísticas de GitHub
 
-[![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=nombre-de-usuario&show_icons=true&theme=radical)](https://github.com/nombre-de-usuario/github-readme-stats)
+[![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
 
 ## Contáctame
 
