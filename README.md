@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [@eehcx]
+# ¡Hola! 👋 Soy [eehcx]
 
 ## Acerca de mí
 
@@ -13,8 +13,8 @@ Soy un apasionado desarrollador de software con experiencia en [lenguajes/tecnol
 
 ## Mis habilidades
 
-- [Lenguajes/tecnologías que dominas]
-- [Herramientas que utilizas (IDE, editores de código, etc.)]
+- [python,javascript,c#]
+- [VSCODE]
 - [Otras habilidades relevantes]
 
 ## Mis estadísticas de GitHub
@@ -27,12 +27,4 @@ Soy un apasionado desarrollador de software con experiencia en [lenguajes/tecnol
 - [Correo electrónico](mailto:tuemail@correo.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 - [Twitter](https://twitter.com/tucuenta)
-
-## Animaciones y gráficos
-
-¡Algunos gráficos y animaciones divertidos para tu perfil de GitHub!
-
-- [Shields.io](https://shields.io/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Linguist](https://github.com/github/linguist)
 
