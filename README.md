@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70">
+</p>
+
 # ¡Hola! 👋 Soy Enoc Hernández
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ## Acerca de mí
 
