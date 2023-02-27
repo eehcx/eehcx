@@ -13,12 +13,8 @@ Soy un apasionado desarrollador de software con experiencia en Python, Django, C
 ## 📊 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&langs_count=8&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eehcx&theme=radical)
-
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&theme=radical&layout=compact&card_width=445)
-
-[![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eehcx&theme=radical)
 
 ## 📩 Get in touch
 
