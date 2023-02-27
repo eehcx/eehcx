@@ -14,6 +14,8 @@ Soy un apasionado desarrollador de software con experiencia en Python, Django, C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&theme=radical&layout=compact&card_width=445)
+
 [![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
 
 ## 📩 Get in touch
