@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=eehcx&color=green)
+![](https://komarev.com/ghpvc/?username=eehcx&color=blue)
+
 ##👨‍💻 About Me
 
 Soy un apasionado desarrollador de software con experiencia en Python, Django, C#, Unity. Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías. Me apasiona el desarrollo de software de alta calidad y limpio, y me esfuerzo por crear código que sea fácil de entender, mantener y escalar.
@@ -11,9 +12,9 @@ Soy un apasionado desarrollador de software con experiencia en Python, Django, C
 
 ## My GitHub Stats
 
-[![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
 
 ## Get in touch
 
