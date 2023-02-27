@@ -19,6 +19,6 @@ Soy un apasionado desarrollador de software con experiencia en Python, Django, C
 ## 📩 Get in touch
 
 📧 [Email](mailto:eehcx.contacto@gmail.com)
-👔 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-🐦 [Twitter](https://twitter.com/yourusername)
+👔 [LinkedIn](https://www.linkedin.com/in/eehcx/)
+🐦 [Twitter](https://twitter.com/eehcx)
 
