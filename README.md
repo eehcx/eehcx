@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=eehcx&color=blue)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=eehcx&color=blue)
+---
 
 
 ##👨‍💻 About Me
