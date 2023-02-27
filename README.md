@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"> 
-
 # ¡Hola! 👋 Soy Enoc Hernández
 
 ## Acerca de mí
@@ -12,9 +10,11 @@ Soy un apasionado desarrollador de software con experiencia en Python, Django, C
 - 🛢️ PostgreSQL, MySQL, Firebase.
 - 🎨 Figma, Adobe Photoshop
 
-## Mis estadísticas de GitHub
+## My GitHub Stats
 
 [![Nombre del desarrollador's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehcx&show_icons=true&theme=radical)](https://github.com/eehcx/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 
