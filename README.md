@@ -17,19 +17,3 @@ I'm currently working on collaborative projects 👥<br>I'm looking to collabora
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=eehcx&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eehcx&theme=radical&layout=compact&card_width=445)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eehcx&theme=radical)
-
-## 📩 Get in touch
-
-📧 [Email](mailto:eehcx.contacto@gmail.com)
-👔 [LinkedIn](https://www.linkedin.com/in/eehcx/)
-🐦 [Twitter](https://twitter.com/eehcx)
-
