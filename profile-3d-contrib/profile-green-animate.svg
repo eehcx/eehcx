@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <rect width="900" height="300" fill="#0d1117"/>
+  <text x="450" y="140" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="18" fill="#8b949e">
+    Loading 3D contribution graph...
+  </text>
+  <text x="450" y="170" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="13" fill="#3b434d">
+    Will update after first GitHub Actions run
+  </text>
+</svg>
