@@ -26,10 +26,8 @@
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat-square&logo=astro)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![QEMU](https://img.shields.io/badge/-QEMU-333333?style=flat-square&logo=qemu)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat-square&logo=electron)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat-square&logo=android)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat-square&logo=swift)
+![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
 ### 📈 Contributions / Language stats
