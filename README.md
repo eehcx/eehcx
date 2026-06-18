@@ -6,7 +6,7 @@
 - 🐧 OS: Fedora Workstation · Arch Linux
 - 🎯 Portfolio: [eehcx.life](https://eehcx.life/)
 
-### 📌 Projects
+### 📌 Projects & Open Source
 
 - 🦠 **pathogen**: A biomechanical, ultra-fast TUI firewall for Linux. Powered by Rust and nftables. Purge impure traffic.
   → [github.com/eehcx/pathogen](https://github.com/eehcx/pathogen)
@@ -32,7 +32,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat-square&logo=swift)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
-### 📈 Contributions
+### 📈 Contributions / Language stats
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" />
