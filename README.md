@@ -30,10 +30,6 @@
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
-### 🈷️ Languages Activity
-
-![Languages](https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.languages.indepth.svg)
-
 ### 📈 Contributions / Language stats
 
 <div align="center">
