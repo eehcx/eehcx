@@ -30,16 +30,16 @@
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
+### 🈷️ Languages Activity
+
+![Languages](https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.languages.indepth.svg)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=eehcx&style=flat-square&abbreviated=true" alt="profile views" />
+</p>
+
 ### 📈 Contributions / Language stats
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </div>
-
-### 🈷️ Languages Activity
-
-![](https://github.com/eehcx/eehcx/blob/main/github-metrics/metrics.plugin.languages.indepth.svg)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=eehcx&style=flat-square&abbreviated=true" alt="profile views" />
-</p>
