@@ -34,12 +34,12 @@
 
 ![Languages](https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.languages.indepth.svg)
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=eehcx&style=flat-square&abbreviated=true" alt="profile views" />
-</p>
-
 ### 📈 Contributions / Language stats
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=eehcx&style=flat-square&abbreviated=true" alt="profile views" />
+</p>
