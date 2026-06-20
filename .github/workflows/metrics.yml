@@ -25,7 +25,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
+          plugin_languages_categories: markup, programming
           plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"

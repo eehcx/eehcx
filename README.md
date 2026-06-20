@@ -33,7 +33,9 @@
 ### 📈 Contributions / Language stats
 
 <div align="center">
-  <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github.com/eehcx/eehcx/blob/main/github-metrics/metrics.plugin.languages.indepth.svg" alt="Language statistics using indepth analysis" />
+  <br />
+  <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" />
 </div>
 
 <p align="right">
