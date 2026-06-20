@@ -15,8 +15,6 @@
 - 🐧 **dotfiles**: Personal dotfiles for a Hyprland environment based on Arch Linux. Vim, Waybar, and terminal config.
   → [github.com/eehcx/dotfiles](https://github.com/eehcx/dotfiles)
 
-### 📦 Featured repositories
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.repositories.svg" alt="Featured repositories" />
 </div>
