@@ -30,11 +30,13 @@
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.languages.indepth.svg" alt="In-depth language analysis" />
+</div>
+
 ### 📈 Contributions / Language stats
 
 <div align="center">
-  <img src="https://github.com/eehcx/eehcx/blob/main/github-metrics/metrics.plugin.languages.indepth.svg" alt="Language statistics using indepth analysis" />
-  <br />
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" />
 </div>
 
