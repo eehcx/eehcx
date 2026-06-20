@@ -8,14 +8,7 @@
 
 ### 📌 Projects & Open Source
 
-- 🦠 **pathogen**: A biomechanical, ultra-fast TUI firewall for Linux. Powered by Rust and nftables. Purge impure traffic.
-  → [github.com/eehcx/pathogen](https://github.com/eehcx/pathogen)
-- 🌱 **ngseed**: Opinionated Angular boilerplate with Clean Architecture scaffolding and plug-and-play UI modules.
-  → [github.com/eehcx/ngseed](https://github.com/eehcx/ngseed)
-- 🐧 **dotfiles**: Personal dotfiles for a Hyprland environment based on Arch Linux. Vim, Waybar, and terminal config.
-  → [github.com/eehcx/dotfiles](https://github.com/eehcx/dotfiles)
-
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.repositories.svg" alt="Featured repositories" />
 </div>
 
