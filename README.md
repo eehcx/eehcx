@@ -15,6 +15,12 @@
 - 🐧 **dotfiles**: Personal dotfiles for a Hyprland environment based on Arch Linux. Vim, Waybar, and terminal config.
   → [github.com/eehcx/dotfiles](https://github.com/eehcx/dotfiles)
 
+### 📦 Featured repositories
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.repositories.svg" alt="Featured repositories" />
+</div>
+
 ### ⚡ Tech Stack & Tools
 
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnubash)
@@ -30,11 +36,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.activity.svg" alt="Recent activity metrics" />
-</div>
-
-### 📈 Contributions / Language stats
+### 📈 Contributions
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" />
