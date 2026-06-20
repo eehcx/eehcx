@@ -31,10 +31,10 @@
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.languages.indepth.svg" alt="In-depth language analysis" />
+  <img src="https://raw.githubusercontent.com/eehcx/eehcx/main/github-metrics/metrics.plugin.activity.svg" alt="Recent activity metrics" />
 </div>
 
-### 📈 Contributions / Language stats
+### 📈 Contributions / Activity stats
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" />
