@@ -1,10 +1,10 @@
 ### 🧑‍💻 TL;DR
 
-- 🧪 Role: Full-Stack Developer & Architect
+- 🧪 Role: Full-Stack Developer & Software Engineer
 - 🏗️ Focus: Clean Architecture, DX, Tooling
-- 🌱 Building: Web Apps, Dev Tools, Open Source
+- 🛠️ Building: Production Systems, SaaS, Developer Tools
+- 🌱 Exploring: System Design, Cloud & Software Architecture
 - 🐧 OS: Fedora Workstation · Arch Linux
-- 🎯 Portfolio: [eehcx.life](https://eehcx.life/)
 
 ### 📌 Projects & Open Source
 
