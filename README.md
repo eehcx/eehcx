@@ -27,12 +27,9 @@
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat-square&logo=react)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=vim)
 
-### 📈 Contributions
+### 📈 Contributions 
 
 <div align="center">
   <img src="https://github.com/eehcx/eehcx/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" />
 </div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=eehcx&style=flat-square&abbreviated=true" alt="profile views" />
-</p>
